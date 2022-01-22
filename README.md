@@ -1,4 +1,4 @@
-# Article Search System 
+# Article Search Engine 
 > A Search Engine written in Python3.
 
 Below is the list of implemented functionalities in this rank retrival model. These can be multi-purposely used to search for queries from the corpus in `English` and `Arabic` languages.
